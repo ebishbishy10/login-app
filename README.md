@@ -1,9 +1,6 @@
 # login-app
 this app use Flask , Flask_bootstrap, flask_wtf to make alog in service
 
-An internal reporting tool that uses information of large database of a web server and draw business conclusions from that information.
-(Project from [Full Stack Web Development Nanodegree](https://in.udacity.com/course/full-stack-web-developer-nanodegree--nd004/))
-
 ## Introduction
 This is a python module that uses information of users in  userData:
 
