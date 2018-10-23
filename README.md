@@ -19,10 +19,6 @@ This is a python module that uses information of users in  userData:
 
 *[flask_bootstrap](https://pythonhosted.org/Flask-Bootstrap/)
 
-*[Postgresql](https://www.postgresql.org/download/)
-
-*[newsdata](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)
-
 * or use 'pip install --user (liberary name )'
 *in shell comand
 ## Recommended setup
